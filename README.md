@@ -1,2 +1,5 @@
-# tosle-developers
-Developers version of CMS TOSLE
+# Student Project - TOSLE - developer edition
+
+Help us to develop our project ! :)
+
+Please, contact us for further informations
